@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HW2rajatdem</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title1label">DRIFT</string>
+    <string name="title1text1">Introduction</string>
+    <string name="title_activity_add_event">AddEventActivity</string>
+    <string name="title1text2">PGVP</string>
+    <string name="title1text3">Event List</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="identifier">AndrewID:</string>
+    <string name="currTime">Current Time:</string>
+    <string name="info">Your Device:</string>
+    <string name="title_activity_maintain">HomeActivity</string>
+    <string name="locHint">Where, otherwise Carnegie Mellon University</string>
+    <string name="timeHint">When, otherwise CurrentTime</string>
+    <string name="eventHint">Event Name</string>
+</resources>
